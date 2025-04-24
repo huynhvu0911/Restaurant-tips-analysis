@@ -1,4 +1,7 @@
 # 🍽️ Restaurant Tips Analysis
+ <img src="restaurant.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 ## Project description 
 This project aims to use the restaurant tips dataset to practice creating composition plots and visualizations. We will examine the relationship between different variables and the tips given.
 ## Source of Data
